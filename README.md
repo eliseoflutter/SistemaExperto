@@ -18,3 +18,8 @@ https://github.com/ronak-07/Medical-Expert-System-Knowledge-Base
 
 https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_expert_systems.htm
 
+##  beg-artificial-intelligence-w-raspberry-pi
+
+https://github.com/Apress/beg-artificial-intelligence-w-raspberry-pi
+
+
