@@ -23,3 +23,8 @@ https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_e
 https://github.com/Apress/beg-artificial-intelligence-w-raspberry-pi
 
 
+## flutter superMachine
+
+https://github.com/raywenderlich
+
+
