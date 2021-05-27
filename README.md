@@ -33,6 +33,9 @@ https://github.com/iamshaunjp
 
 https://www.youtube.com/c/TheNetNinja/playlists
 
+https://github.com/abhisheknaiidu/javascript30
+
+
 ## Pawan Kumar
 
 https://github.com/iampawan
