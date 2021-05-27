@@ -27,4 +27,11 @@ https://github.com/Apress/beg-artificial-intelligence-w-raspberry-pi
 
 https://github.com/raywenderlich
 
+## Shaun iamshaunjp
+
+https://github.com/iamshaunjp
+
+https://www.youtube.com/c/TheNetNinja/playlists
+
+
 
